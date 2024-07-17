@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhvet Sharma</h1>
-<h3 align="center">I am an undergraduate at IIT Patna(2022-2026) who loves programming, entrepreneurship, reading and finance. Currently, working on a startup Krayt Ecommerce. I am passionate about coding and problem solving, and I enjoy participating in online coding contests and hackathons. I am always eager to learn new skills and technologies, and to collaborate with other students and professionals who share my interests.</h3>
+<h3 align="center">I am an undergraduate at IIT Patna(2022-2026) who loves programming, entrepreneurship and finance. Currently, working on a startup Krayt Ecommerce. I am passionate about coding and problem solving, and I enjoy participating in online coding contests and hackathons. I am always eager to learn new skills and technologies, and to collaborate with other students and professionals who share my interests.</h3>
 <img src="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif" alt="Console.log('error')" img align="right">
 
 - 🔭 I’m currently working on [Krayt Ecommerce Pvt Ltd](https://t.ly/V26Jl)
